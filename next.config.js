@@ -5,11 +5,10 @@ module.exports = {
   },
 
   // Deploying Next.js as a Static Site on DigitalOcean
-  output: 'export',
-  distDir: '_static',
-  images: {
-    unoptimized: true,
-  },
-
-  trailingSlash: true,
+  // output: 'export',
+  // distDir: '_static',
+  // images: {
+  //   unoptimized: true,
+  // },
+  // trailingSlash: true,
 };
